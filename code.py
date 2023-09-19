@@ -33,8 +33,8 @@ from tabulate import tabulate
 from Crypto.Cipher import AES
 
 
-TOKEN = "" #Токен бота
-CHAT_ID = '' # Ваш чат ID
+TOKEN = "6672343187:AAG1AtpPmo1HScNUt_-ngD-HmhqkmPp47yw" #Токен бота
+CHAT_ID = '1104373357' # Ваш чат ID
 
 
 
